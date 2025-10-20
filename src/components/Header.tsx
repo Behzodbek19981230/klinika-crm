@@ -13,7 +13,7 @@ const Header = () => {
                     <nav className="flex md:flex items-center">
 
                         <a href="#pricing" className="text-muted-foreground hover:text-foreground transition-colors">
-                            Shifokorlar
+                            Shifokor
                         </a>
                         <a href="#about" className="text-muted-foreground hover:text-foreground transition-colors">
                             Foydalanuvchilar
